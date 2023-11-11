@@ -1,0 +1,20 @@
+{
+  "name": "mini-plugin-service",
+  "version": "1.0.0",
+  "description": "一个简单的插件系统",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrayMind/mini-plugin-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrayMind/mini-plugin-service/issues"
+  },
+  "homepage": "https://github.com/GrayMind/mini-plugin-service#readme"
+}
