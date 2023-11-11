@@ -45,6 +45,10 @@ export default class Service {
     return config;
   }
 
+  /**
+   * 开始运行
+   * @param {*} content 需要处理的文本内容
+   */
   async run(content) {
     const config = await this.loadConfig();
     this.plugins = await this.loadPlugins(config);
